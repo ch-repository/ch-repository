@@ -8,7 +8,7 @@ Code is written to be executed by a machine and read by a human being
 
 * 🌍  I'm based in China
 * ✉️  You can contact me at [yaochaohang219@gmail.com](mailto:yaochaohang219@gmail.com)
-* 🚀  I'm currently working on [MyBlog](http://(s)://www.chaohangweb.cn)
+* 🚀  I'm currently working on [MyBlog](https://www.chaohangweb.cn)
 * 🧠  I'm learning Nestjs
 * 🤝  I'm open to collaborating on WebApp
 
